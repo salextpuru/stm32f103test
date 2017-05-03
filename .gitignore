@@ -11,5 +11,10 @@
 *.map
 *.lib
 *.wmf
+*.o
 .kdev_include_paths
 authlocal.mk
+*kdev4*
+build*
+*old
+*~
