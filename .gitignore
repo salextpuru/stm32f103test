@@ -1,0 +1,15 @@
+*.asm
+*.rel
+*.lst
+*.tap
+*.bin
+*.ihx
+*.noi
+*.sym
+*.$C
+*.hS
+*.map
+*.lib
+*.wmf
+.kdev_include_paths
+authlocal.mk
